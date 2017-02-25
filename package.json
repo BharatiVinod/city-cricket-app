@@ -1,0 +1,27 @@
+{
+  "name": "city-cricket-app",
+  "version": "1.0.0",
+  "description": "An app for managing city's Cricket Tournaments.",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharatiVinod/city-cricket-app.git"
+  },
+  "keywords": [
+    "Node",
+    "express",
+    "mongo",
+    "cricket-app",
+    "mern"
+  ],
+  "author": "Bharati Vinod & Yasser Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BharatiVinod/city-cricket-app/issues"
+  },
+  "homepage": "https://github.com/BharatiVinod/city-cricket-app#readme"
+}
